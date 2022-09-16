@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.post{
+    width: 400px;
+    height: 550px;
+    background-color: white;
+    margin: auto;
+    margin-top: 80px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.icono-html img{  
+    margin-left: 10px;
+    margin-top:10px;
+    margin-right: 10px;
+    width: 15px;
+    height: 15px;
+    
+}
+.icono-puntos{
+    margin-right: 30px;
+}
+.titulo{
+    width:350px;
+}
+.icono-puntos{
+    margin-top:10px ;
+}
+.fotografia img{
+    width:100%;
+}
+
+
+.marcador {
+    float: right;
+}
+.parrrafo {
+    text-align: center;
+}
+
+
